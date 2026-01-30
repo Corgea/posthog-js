@@ -11,7 +11,7 @@
         }
     },
     "devDependencies": {
-        "eslint": "8.57.0",
+        "eslint": "9.26.0",
         "eslint-config-prettier": "^8.5.0",
         "eslint-config-posthog-js": "workspace:./eslint-rules",
         "eslint-plugin-compat": "^6.0.1",
